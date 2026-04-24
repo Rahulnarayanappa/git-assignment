@@ -1,0 +1,2 @@
+this is app.txt file for git assignment.
+and i commit it.
