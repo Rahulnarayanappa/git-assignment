@@ -1,3 +1,4 @@
 this is app.txt file for git assignment.
 and i commit it.
 git is a version control tool.
+this is new line
