@@ -1,5 +1,4 @@
 this is app.txt file for git assignment.
 and i commit it.
 git is a version control tool.
-and it keeps track the files and director.
-git is local repo and github is host repo.
+this is new line
